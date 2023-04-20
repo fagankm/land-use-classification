@@ -16,3 +16,5 @@ Governmental agencies can use this to request specific types of images from NASA
 
 # Next steps
 This model was trained on only one type of image from one satellite program. I would like to train on different sizes, resolutions, and sources of images going foward.
+
+All files in this project are in the root directory, I am not pushing the data because it is large, but again, it can be found at kaggle.
