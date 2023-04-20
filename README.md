@@ -19,8 +19,8 @@ This model was trained on only one type of image from one satellite program. I w
 
 All files in this project are in the root directory, I am not pushing the data because it is large, but again, it can be found at kaggle.
 
-├── data
-├── .gitignore
-├── README.md
-├── Notebook.ipynb
+├── data<br/>
+├── .gitignore<br/>
+├── README.md<br/>
+├── Notebook.ipynb<br/>
 └── Presentation.pdf
